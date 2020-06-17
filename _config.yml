@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: aplisay jobs
-logo: /assets/aplisay-logo-white.svg
+logo: /assets/aplisay-logo.svg
 description: Jobs site for the aplisay connect project
 show_downloads: false
+github: is_project_page:false

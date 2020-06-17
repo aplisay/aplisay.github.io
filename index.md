@@ -1,16 +1,15 @@
-# Jobs at Aplisay
-
-## Job Description - User Interface Designer
+# User Interface Designer
 [Aplisay](https://www.aplisay.com/) is working on a project with [Founders and Coders](https://foundersandcoders.com) to deliver elegant, socially beneficial conversational interfaces that really work for smaller organisations.
 
 We would like to hire an innovative user interface designer to help our team elegantly solve some of the unique challenges we face producing interface designs which enable unskilled users to implement safe, useable conversational agents for their organisation.
 
 Initially engagement will be via an up to 3-month full or part-time contract on an InnovateUK funded project to build a pilot user interface. This is a remote opportunity with no fixed office based attendance required. The contributor will be responsible for providing their own working environment and equipment within the day rate agreed.
-Our ideal candidate will have flair and passion for discovering complex user jobs through research and planning simple intuitive journeys and interfaces to fulfill them. They will also possess the ability to crystalise these down to concrete designs that can be tested, iterated and confidently built out by our developers using React.
+
+Our ideal hire will have flair and passion for discovering complex user jobs through research and planning simple intuitive journeys and interfaces to fulfill them. They will also possess the ability to crystalise these down to concrete designs that can be tested, iterated and confidently built out by our developers using React. Culturally, this project is all about working effectively and with good humour with a team from diverse backgrounds to wring as much progress as we can out of the fixed time and resources available in the strange "remote-only" post Covid-19 world.
 
 ## Responsibilities
 
-* Conduct user interviews and work under own initiative with product manager to collect requirements
+* Conduct remote user interviews and work under own initiative with product manager to collect requirements
 * Develop creative user interface specifications
 * Establish consistent brand and creative designs
 * Communicate ideas with users and developers using mock-ups
