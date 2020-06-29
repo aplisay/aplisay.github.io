@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Full Stack Developers
 [Aplisay](https://www.aplisay.com/) is working on a project with to deliver elegant, socially beneficial conversational interfaces that really work for smaller organisations.
 
 We are looking to recruit a team of two Founders and Coders graduate developers who will work with a senior developer and UX designer to deliver a system which enables unskilled users to implement safe, useable conversational agents for their organisation.
