@@ -1,27 +1,22 @@
-# User Interface Designer
-[Aplisay](https://www.aplisay.com/) is working on a project with [Founders and Coders](https://foundersandcoders.com) to deliver elegant, socially beneficial conversational interfaces that really work for smaller organisations.
+# Full Stack Developer
+[Aplisay](https://www.aplisay.com/) is working on a project with to deliver elegant, socially beneficial conversational interfaces that really work for smaller organisations.
 
-We would like to hire an innovative user interface designer to help our team elegantly solve some of the unique challenges we face producing interface designs which enable unskilled users to implement safe, useable conversational agents for their organisation.
+We are looking to recruit a team of two Founders and Coders graduate developers who will work with a senior developer and UX designer to deliver a system which enables unskilled users to implement safe, useable conversational agents for their organisation.
 
-Initially engagement will be via an up to 3-month full or part-time contract on an InnovateUK funded project to build a pilot user interface. This is a remote opportunity with no fixed office based attendance required. The contributor will be responsible for providing their own working environment and equipment within the day rate agreed.
+This is an opportunity for user experience focussed developers who are enthusiastic about the challenge of developing intuitive interfaces to simplify complex jobs.
 
-Our ideal hire will have flair and passion for discovering complex user jobs through research and planning simple intuitive journeys and interfaces to fulfill them. They will also possess the ability to crystalise these down to concrete designs that can be tested, iterated and confidently built out by our developers using React. Culturally, this project is all about working effectively and with good humour with a team from diverse backgrounds to wring as much progress as we can out of the fixed time and resources available in the strange "remote-only" post Covid-19 world.
+Tech stack is React front end and cluster of Express backend micro-services.
 
-## Responsibilities
-
-* Conduct remote user interviews and work under own initiative with product manager to collect requirements
-* Develop creative user interface specifications
-* Establish consistent brand and creative designs
-* Communicate ideas with users and developers using mock-ups
-* Collect feedback from users and adjust approach to tune useability
-* Build wireframes and prototypes to outline structure
+Pay: £135/day
 
 ## Timescale
 
-In the first instance, this is a short term project which has just received funding to deliver an MVP over the summer. We are inviting applications during w/c 15th June and expect the contract to start w/c 22nd June, certainly by 1st July. Please apply if you are available for remote interview on or before 22nd June and available to commence work by the end of June.
+This is an 8 week engagement for 4, two week sprints.
+
+The start date is around the 6th July and we are looking to hire two developers who are available for the same 8 weeks in July and August.
+
+Applications open Tues June 30th.
 
 ## Applications
 
-If you would like to apply for this contract, please send an email with a summary of relevant experience to [**jobs@aplisay.com**](mailto:jobs@aplisay.com?Subject=User%20Interface%20Designer%20Application).
-
-We do not have any funding for agency fees so would ask that applications are from individuals in person please. We are also all flat out working on the project and don't unfortunately have time to take telephone calls from prospective applicants or agents so would ask that you make initial contact via the above email address only please. We do however appreciate the time that making considered applications takes and will engage and give due consideration to **_all_** applications. We thank you in advance for taking the time to apply.
+If you would like to apply for this contract, please send an email with a summary of relevant experience to [**jobs@aplisay.com**](mailto:jobs@aplisay.com?Subject=Founders%20%and%20Coders%20Developer%20Application).
