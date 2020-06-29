@@ -19,4 +19,4 @@ Applications open Tues June 30th.
 
 ## Applications
 
-If you would like to apply for this contract, please send an email with a summary of relevant experience to [**jobs@aplisay.com**](mailto:jobs@aplisay.com?Subject=Founders%20%and%20Coders%20Developer%20Application).
+If you would like to apply for this contract, please send an email with a summary of relevant experience to [**jobs@aplisay.com**](mailto:jobs@aplisay.com?Subject=Founders%20and%20Coders%20Developer%20Application).
