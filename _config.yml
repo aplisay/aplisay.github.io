@@ -4,3 +4,7 @@ logo: /assets/aplisay-logo.svg
 description: connect project
 show_downloads: false
 github: is_project_page:false
+plugins:
+    - jekyll-seo-tag
+twitter:
+  username: aplisay
