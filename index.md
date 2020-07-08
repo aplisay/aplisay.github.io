@@ -8,10 +8,12 @@ As a thank you, we will give you a **£30 Amazon Gift Card** *OR* **donate £50*
 
 If you like the product that you have helped us shape, then we will also be pleased to give you free access to a beta release of the product for at least two months before it releases, but this is **NOT** a sales pitch.
 
-**Privacy:** we will delete the data of everyone that applies to take part in these interviews at the end of the testing process and will not disclose your data to any other party nor contact you as a result of giving us your details on the test application form other than to tell ask to book a testing session with you.
-
 ## Apply
 
 Sounds like fun? [Apply Here](https://forms.gle/a32RsuuH2FvBLU1M9)
 
 Want to know more before you do? [Email us](mailto:hello@aplisay.com?subject=user%20testing%20on%2010th%20July)
+
+## Privacy and data use
+
+We will delete the contact data supplied by everyone that applies to take part in these interviews at the end of the testing process. We will not disclose your details to any other party not involved in the testing interviews nor contact you other than for matters related to the test interviews.
