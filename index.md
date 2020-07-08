@@ -1,8 +1,8 @@
 # Product Test Interviews
 
-We want to conduct remote interviews with people who will give us feedback on an experimental new product we are developing. We don't want to give any details about the product you will be testing ahead of the tests as the test process relies on you seeing it for the first time then, but it is a product that that we hope will improve the ability of businesses and charities to respond to the needs of their clients.
+We want to conduct remote interviews with people who will give us feedback on an experimental new product we are developing. The product is one that that we hope will improve the ability of small businesses and charities to respond to the contact needs of their clients but we don't want to give away too many details ahead of the tests as the process relies on you seeing it for the first time then.
 
-We will conduct these interviews remotely during the day on Friday 10th July where the process will involve showing you the product, watching you attempt to use it via a screenshare, and taking your feedback on how you felt it worked. The whole process will be informal, fun and will take less than an hour from start to finish.
+We will conduct the interviews remotely during the day on Friday 10th July. The process will involve showing you the product, watching you attempt to use it via a screenshare, and taking your feedback on how you felt it worked. The whole process will be informal, fun and will take less than an hour from start to finish.
 
 As a thank you, we will give you a **£30 Amazon Gift Card** *OR* **donate £50** to **any UK registered charity you nominate**.
 
