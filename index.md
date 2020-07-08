@@ -1,22 +1,15 @@
-# Full Stack Developers
-[Aplisay](https://www.aplisay.com/) is working on a project with to deliver elegant, socially beneficial conversational interfaces that really work for smaller organisations.
+# Product Test Interviews
 
-We are looking to recruit a team of two Founders and Coders graduate developers who will work with a senior developer and UX designer to deliver a system which enables unskilled users to implement safe, useable conversational agents for their organisation.
+We want to conduct remote interviews with people who will give us feedback on an experimental new product we are developing. We don't want to give anything much away about the product you will be testing ahead of the tests as that may affect the outcome but it is a product that that we hope will improve the ability of businesses and charities to respond to the needs of their clients.
 
-This is an opportunity for user experience focussed developers who are enthusiastic about the challenge of developing intuitive interfaces to simplify complex jobs.
+We will conduct these interviews remotely during the day on Friday 10th July and the process will involve showing you the product, watching you attempt to use it via a screenshare, and taking your feedback on how you felt it worked. The whole process should be informal, fun and will take less than an hour.
 
-Tech stack is React front end and cluster of Express backend micro-services.
+As a thank you, we will either give you a **£30 Amazon Gift Card** OR **donate £50** to **any UK registered charity you nominate**.
 
-Pay: £135/day
+If you like the product that you have helped us shape, then we will also be pleased to give you free access to a beta release of the product for at least two months before it releases, but this is **NOT** a sales pitch.
 
-## Timescale
+**Privacy:** we will delete the data of everyone that applies to take part in these interviews at the end of the testing process and will not disclose your data to any other party nor contact you as a result of giving us your details on the test application form other than to tell ask to book a testing session with you. If you are selected then we may contact you with your consent after the test session because you ask us to, for example to send your gift card or organise the charity donation or followup a beta request.
 
-This is an 8 week engagement for 4, two week sprints.
+## Apply
 
-The start date is around the 6th July and we are looking to hire two developers who are available for the same 8 weeks in July and August.
-
-Applications open Tues June 30th.
-
-## Applications
-
-If you would like to apply for this contract, please send an email with a summary of relevant experience to [**jobs@aplisay.com**](mailto:jobs@aplisay.com?Subject=Founders%20and%20Coders%20Developer%20Application).
+Sounds like fun? [Apply Here](https://forms.gle/a32RsuuH2FvBLU1M9) want to know more before you do? [Email us](mailto:testing@aplisay.com?subject=user%20testing%20on%2010th%20July)
