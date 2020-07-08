@@ -1,8 +1,8 @@
 ---
 title:  "Product Test Interviews"
-description: "Paid product testing 10th July"
-subtitle: "Paid product testing 10th July"
-authors: [ "@aplisay" ]
+description: "Product testing 10th July"
+subtitle: "Product testing 10th July"
+authors: [ "@aplisay", "@RobinJPickering" ]
 image: /assets/usertesting.jpeg
 icon: icon-calendar
 ---
