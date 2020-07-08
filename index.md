@@ -1,5 +1,6 @@
 ---
 title:  "Product Test Interviews"
+description: "Paid product testing 10th July"
 subtitle: "Paid product testing 10th July"
 authors: [ "@aplisay" ]
 image: /assets/images/usertesting.jpeg
