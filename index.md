@@ -1,8 +1,15 @@
+---
+title:  "Product Test Interviews"
+subtitle: "Paid product testing 10th July"
+authors: [ "@aplisay" ]
+image: /assets/images/usertesting.jpeg
+icon: icon-calendar
+---
 # Product Test Interviews
 
-We want to conduct remote interviews to get feedback on an experimental new product we are developing. The product is one that that aims to improve the ability of small businesses and charities to respond to the contact needs of their clients but we don't want to give away too many details ahead of the tests as the process relies on you seeing it for the first time then.
+Aplisay is conducting remote interviews to get feedback on an experimental new product we are developing. The product aims to improve the ability of small businesses and charities to respond to the contact needs of their clients. We don't want to give away more details than that as the process relies on testers seeing the concept for the first time during the session.
 
-<img align="right" width="320" src="assets/usertesting.jpeg"> The tester interviews will take place remotely during the day on Friday 10th July. The process will involve showing you the product, watching you attempt to use it via a screenshare, and taking your feedback on how you felt it worked. The whole process should be informal, fun and will take less than an hour from start to finish.
+<img align="right" width="320" src="assets/usertesting.jpeg"> The testing sessions will take place remotely during the day on **Friday 10th July**. The process will involve showing you the product, watching you attempt to use it via a screenshare, and taking your feedback on how you felt it worked. The whole process should be informal, fun and will take less than an hour from start to finish.
 
 As a thank you, we will give you a **£30 Amazon Gift Card** *OR* **donate £50** to **any UK registered charity you nominate** at the end of the interview.
 
