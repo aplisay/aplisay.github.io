@@ -12,4 +12,6 @@ If you like the product that you have helped us shape, then we will also be plea
 
 ## Apply
 
-Sounds like fun? [Apply Here](https://forms.gle/a32RsuuH2FvBLU1M9) want to know more before you do? [Email us](mailto:hello@aplisay.com?subject=user%20testing%20on%2010th%20July)
+Sounds like fun? [Apply Here](https://forms.gle/a32RsuuH2FvBLU1M9)
+
+Want to know more before you do? [Email us](mailto:hello@aplisay.com?subject=user%20testing%20on%2010th%20July)
